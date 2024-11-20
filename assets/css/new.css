@@ -5,6 +5,9 @@ body {
   font-family: "Circular";
 }
 
+.text {
+  font-weight: 900;
+}
 .w-5 {
   width: 4%;
 }
@@ -15,4 +18,16 @@ body {
 
 .bg-black {
   background-color: black;
+}
+
+.prima-colonna {
+  font-size: small;
+}
+
+.colonna-nera {
+  font-size: x-small;
+}
+
+.gradient {
+  background: linear-gradient(160deg, rgba(59, 28, 169, 1) 18%, rgba(126, 148, 154, 1) 97%);
 }
